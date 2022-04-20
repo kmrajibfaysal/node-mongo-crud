@@ -1,0 +1,12 @@
+{
+  "name": "node-mongo-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "K. M. Rajib Faysal <kmrajibfaysal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  }
+}
