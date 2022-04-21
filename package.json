@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "K. M. Rajib Faysal <kmrajibfaysal@gmail.com>",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
